@@ -5,7 +5,8 @@
 ## 说明
 1. 使用OneNote笔记软件进行记录查看，使用字体[Monaco+微软雅黑]
 2. 文档主要按照语言分区
-3. 分类说明
+3. 当文档中某个知识点具备规模后，将其独立拆分
+4. 分类说明
 
 |文档|说明|
 |-|-|
@@ -22,4 +23,4 @@
 
 ## 预览
 <div align=center><img width="70%" height="70%" src="https://github.com/bjc5233/programming-learn/raw/master/resources/demo1.png"/></div>
-<div align=center><img width="70%" height="70%" src="https://github.com/bjc5233/programming-learn/raw/master/resources/demo1.png"/></div>
+<div align=center><img width="70%" height="70%" src="https://github.com/bjc5233/programming-learn/raw/master/resources/demo2.png"/></div>
